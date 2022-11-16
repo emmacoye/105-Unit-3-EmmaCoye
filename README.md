@@ -14,9 +14,9 @@ This .csv file contains many colleges and universities around the United States.
 
 ##### 2. A python notebook including steps on how to code in Python3 with the Pandaas package to create a subset of the original set of data.
 
+##### 3. A .csv file containing the subset of data from the original .csv file.
 
-
-3. A .csv file containing the subset of data from the original .csv file.
+This .csv file contains information on North Carolina universities and colleges' sports teams. It includes the name of the university, total amount of female players for a sport, and the total amount of male players from a sport. The file also shows the amount of revenue gained from each women's sport and men's sport.
 
 ### Our end goal is to create a subset of data that will answer the question: What collegiate sport do most women tend to play and is their revenue ever higher than men's sports in North Carolina?
 
