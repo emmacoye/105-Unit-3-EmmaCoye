@@ -1,6 +1,6 @@
 # 105-Unit-3-EmmaCoye
 
-This is a repository containing instructional information on how use Python3 and the Pandas package. 
+This is a repository containing instructional information on how use Python3 and the Pandas package to answer the following question: What collegiate sport do most women tend to play and is their revenue ever higher than men's sports in North Carolina?
 
 ### Acknowledgements
 
@@ -18,7 +18,7 @@ This .csv file contains many colleges and universities around the United States.
 
 3. A .csv file containing the subset of data from the original .csv file.
 
-### This information will be used to create a subset of data that will answer the question: What collegiate sport do most women tend to play and is their revenue ever higher than men's sports in North Carolina?
+### Our end goal is to create a subset of data that will answer the question: What collegiate sport do most women tend to play and is their revenue ever higher than men's sports in North Carolina?
 
 
 
