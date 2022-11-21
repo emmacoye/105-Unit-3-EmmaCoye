@@ -24,7 +24,7 @@ This .csv file contains information on North Carolina universities and colleges'
 
 
 #### Main Women Sports Results
-![Main Women Sports](https://user-images.githubusercontent.com/118199042/202936609-38dadd66-a4f1-4efd-be9e-7e093073784e.png)
+![snapshot-1669045858729](https://user-images.githubusercontent.com/118199042/203099170-203ad2ca-466b-4f4c-b4fa-8c693414f24f.png)
 
 The visuzaltion shown was produced through [Flourish](https://flourish.studio/). Taking the top collegiete sports, this displays how many women are in those sports. To do this we had to manually crunch the numbers for each of these five sports. 
 
