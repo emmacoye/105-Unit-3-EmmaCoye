@@ -28,7 +28,7 @@ This .csv file contains information on North Carolina universities and colleges'
 
 The visuzaltion shown was produced through [Flourish](https://flourish.studio/). Taking the top collegiete sports, this displays how many women are in those sports. To do this we had to manually crunch the numbers for each of these five sports. 
 
-##### How To Manually Add Data
+#### How To Manually Add Data
 Open the subset of data through your preferred software. Proceed to add a new column and begin to type "=". This will start a formula. After the equals sign, click on the cell that include women participants in the preferred sport. Press the "+" and click the next cell down with a new school, but with the same sport. This is a tedious process, so make sure you double check that all the cells clicked are for that particular sport. Continue this process until the end of the spreadsheet and for the other preferred sports that you will like to compare data with. You can then export this file by pressing "file" and "export to". Save the file as a .csv file and upload to your Flourish account. 
 
 
