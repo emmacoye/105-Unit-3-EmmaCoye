@@ -20,7 +20,7 @@ This .csv file contains information on North Carolina universities and colleges'
 
 ### Our end goal is to create a subset of data that will answer the question: What collegiate sport do most women tend to play and is their revenue ever higher than men's sports in North Carolina?
 
-![alt-text](Main Women Sports.png)
+![Data-Viz](Main Women Sports.png)
 
 
 
