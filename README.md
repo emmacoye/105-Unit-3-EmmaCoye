@@ -23,7 +23,7 @@ This .csv file contains many colleges and universities around the United States.
 This .csv file contains information on North Carolina universities and colleges' sports teams. It includes the name of the university, total amount of female players for a sport, and the total amount of male players from a sport. The file also shows the amount of revenue gained from each women's sport and men's sport.
 
 ### Getting Started
-To begin following this repository, click the "Documentation" folder, then click on the "Unit3Project" document. This document will direct you to open up the Anaconda software and JupyterLab Notebook. Proceed to follow the directions in the "Unit3Project" document. 
+To begin following this repository, click the "Documentation" folder, then click on the "Unit3Project" document. This document will direct you to open up the Anaconda software and JupyterLab. Proceed to follow the directions in the "Unit3Project" document. 
 
 
 #### Main Women Sports Results
