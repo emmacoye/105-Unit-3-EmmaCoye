@@ -7,10 +7,10 @@ The instructions provided are from resources from the University of North Caroli
 This data came from the [U.S. Department of Education](https://ope.ed.gov/athletics/#/). The Department of Education showcases its equity in sports through data analysis. In this website, you will be able to find information on many universities and data pertaining to their sports teams. The data used was from the most recent year of data. 
 
 #### What Is The Data's Purpose? 
-This repository has been made to provide a publicly accessible and reproducible dataset for those interested in eqiuity in athletics in U.S. universities.  Our end goal is to create a subset of data that will answer the question: What collegiate sport do most women tend to play in North Carolina? This process can be reproduced with any level of expertise of Python3.
+This repository has been made to provide a publicly accessible and reproducible dataset for those interested in eqiuity in athletics in U.S. universities. Our end goal is to create a subset of data that will answer the question:  What collegiate sport do most women tend to play and is their revenue ever higher than men's sports in North Carolina? This process can be reproduced with any level of expertise of Python3.
 
 #### Potential Use
-This is a repository containing instructional information on how use Python3 and the Pandas package to answer the following question: What collegiate sport do most women tend to play in North Carolina? I created this repository because I had a personal interest in college athletics. As a female athlete, it has taken many years for us to be recognized on a national level. In hope to bring more attention to women's sports, this repository will provide instructions to provide data about the total amount of collegiete female athletes and their sport's revenue.
+This is a repository containing instructional information on how use Python3 and the Pandas package to answer the following question: What collegiate sport do most women tend to play and is their revenue ever higher than men's sports in North Carolina? I created this repository because I had a personal interest in college athletics. As a female athlete, it has taken many years for us to be recognized on a national level. In hope to bring more attention to women's sports, this repository will provide instructions to provide data about the total amount of collegiete female athletes and their sport's revenue.
 
 ### Within this repository you will find three files. 
 
